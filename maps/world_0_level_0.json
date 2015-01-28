@@ -1,0 +1,15 @@
+{
+  "map": {
+    "name": "entrance",
+    "entities": [
+      {
+        "game_object": "grass_tile",
+        "instances": [[32, 32, 0], [64, 32, 0]]
+      },
+      {
+        "game_object": "dirt_tile",
+        "instances": [[32, 64, 0], [64, 64, 0]]
+      }
+    ]
+  }
+}
