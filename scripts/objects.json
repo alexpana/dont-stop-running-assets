@@ -2,64 +2,37 @@
   "objects": [
     {
       "name": "grass_tile",
-      "size": [
-        32,
-        32
-      ],
+      "size": [32, 32],
       "solid": true,
       "deadly": false,
       "sprite": {
-        "sheet": "tiles.png",
-        "offset": [
-          0,
-          0
-        ],
-        "size": [
-          32,
-          32
-        ]
+        "sheet": "tiles",
+        "offset": [0, 0],
+        "size": [32, 32]
       }
     },
 
     {
       "name": "dirt_tile",
-      "size": [
-        32,
-        32
-      ],
+      "size": [32, 32],
       "solid": true,
       "deadly": false,
       "sprite": {
-        "sheet": "tiles.png",
-        "offset": [
-          0,
-          32
-        ],
-        "size": [
-          32,
-          32
-        ]
+        "sheet": "tiles",
+        "offset": [32, 0],
+        "size": [32, 32]
       }
     },
 
     {
       "name": "saw",
-      "size": [
-        32,
-        32
-      ],
+      "size": [64, 64],
       "solid": true,
       "deadly": false,
       "sprite": {
-        "sheet": "tiles.png",
-        "offset": [
-          0,
-          32
-        ],
-        "size": [
-          32,
-          32
-        ]
+        "sheet": "tiles",
+        "offset": [64, 0],
+        "size": [64, 64]
       }
     }
   ]
