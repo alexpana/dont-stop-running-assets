@@ -1,0 +1,25 @@
+{
+  "static_tiles": [
+    {
+      "name": "grass_tile",
+      "size": [32, 32],
+      "solid": true,
+      "deadly": false,
+      "sprite": "grass_tile"
+    },
+    {
+      "name": "dirt_tile",
+      "size": [32, 32],
+      "solid": true,
+      "deadly": false,
+      "sprite": "dirt_tile"
+    },
+    {
+      "name": "saw",
+      "size": [64, 64],
+      "solid": true,
+      "deadly": false,
+      "sprite": "saw"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sprites": [
+    {
+      "name": "grass_tile",
+      "sheet": "tiles",
+      "offset": [0, 0],
+      "size": [32, 32]
+    },
+
+    {
+      "name": "dirt_tile",
+      "sheet": "tiles",
+      "offset": [32, 0],
+      "size": [32, 32]
+    },
+
+    {
+      "name": "saw",
+      "sheet": "tiles",
+      "offset": [64, 0],
+      "size": [64, 64]
+    }
+  ]
+}
